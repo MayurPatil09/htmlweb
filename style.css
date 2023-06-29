@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+#container{
+    display: flex;
+
+    background-color: rebeccapurple;
+    width: 100vw;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+p{
+    color: red;
+    border: 1px solid black;
+}
+.hero-heading{
+    color: #fff;
+    font-size: 80px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* .avatar>img{
+    width: 400px;
+    height: auto;
+} */
+
+img{
+    width: 400px;
+    height: auto;
+    margin-right: 0 !important;
+    margin-left: 650px;
+   padding-top: 195px;
+}
+
+
